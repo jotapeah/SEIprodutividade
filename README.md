@@ -22,3 +22,10 @@ O botão "Abortar programa" encerra a execução do programa por completo.
 OBS:
 
 Caso a relação com número de lotes não se aplique à sua demanda e te interesse apenas fazer o download automático dos processos, preencha apenas os campos de usuário, senha e lista de processos.
+
+      --- NECESSÁRIO PARA USAR O PROGRAMA ---
+
+O GitHub não permite envio de arquivos que excedam 25MB, então não posso disponibilizar aqui o programa executável. Caso não esteja habituado com programação e não consiga executar o código, entre em contato comigo por email que eu envio o programa executável ou ajudo com a configuração do ambiente para execução.
+
+Contato:
+dsvj@proton.me
