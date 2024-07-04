@@ -25,7 +25,10 @@ Caso a relação com número de lotes não se aplique à sua demanda e te intere
 
       --- NECESSÁRIO PARA USAR O PROGRAMA ---
 
-O GitHub não permite envio de arquivos que excedam 25MB, então não posso disponibilizar aqui o programa executável. Caso não esteja habituado com programação e não consiga executar o código, entre em contato comigo por email que eu envio o programa executável ou ajudo com a configuração do ambiente para execução.
+- Python
+- VSCode (ou similar)
+- Webdriver do Microsoft Edge
 
-Contato:
-dsvj@proton.me
+      --- CONTATO ---
+
+6dsvj@pm.me
