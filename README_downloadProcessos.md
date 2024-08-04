@@ -28,13 +28,14 @@ Caso a relação com número de lotes não se aplique à sua demanda e te intere
 - Python;
 - VSCode (ou similar);
 - Webdriver do Microsoft Edge;
+
 - Bibliotecas Python necessárias:
-      - tkinter
-      - pyperclip
-      - selenium
-      - pandas
-      - openpyxl
-      - pyarrow
+- tkinter
+- pyperclip
+- selenium
+- pandas
+- openpyxl
+- pyarrow
 
       --- CONTATO ---
 
