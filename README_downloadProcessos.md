@@ -25,9 +25,16 @@ Caso a relação com número de lotes não se aplique à sua demanda e te intere
 
       --- NECESSÁRIO PARA USAR O PROGRAMA ---
 
-- Python
-- VSCode (ou similar)
-- Webdriver do Microsoft Edge
+- Python;
+- VSCode (ou similar);
+- Webdriver do Microsoft Edge;
+- Bibliotecas Python necessárias:
+      tkinter
+      pyperclip
+      selenium
+      pandas
+      openpyxl
+      pyarrow
 
       --- CONTATO ---
 
