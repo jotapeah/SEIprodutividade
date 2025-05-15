@@ -5,3 +5,7 @@
 - O arquivo "downloadProcessos2.4_paraSEI_V.4.0.py" funciona no SEI versão 4.0
 
 Contato: 6dsvjr@pm.me
+
+Contribuições:
+
+- O script para levantamento de processos de divisão foi criado pelo colega @luismelloleite
